@@ -1,0 +1,13 @@
+{
+	"email": "test@email.com",
+	"username": "Jimmy",
+	"password": "P@ssw0rd123!",
+	"emergencyContacts": [
+		{
+			"name": "mum",
+			"phonenumber": 1231231
+		}
+	]
+}
+
+
